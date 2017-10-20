@@ -1,7 +1,7 @@
 ML Weekend 
 ===================
 
-Application iteratively request  data from server from interval $[-\frac{n}{2}, \frac{n}{2}]$, with default distance 1 and default number of measurments of 5.
+Application iteratively request  data from server from interval [-n/2, n/2], with default distance 1 and default number of measurments of 5.
 
 # Usage
 
