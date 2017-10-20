@@ -10,7 +10,7 @@ python curveFitting.py [OPTION]
 ```
 
 #### Options
-**-i**: Path to json file to read the data (instead of requesting the server interactively) - if specified, all other options are ignored
+**-i**: Path to json file to read the data from (instead of requesting the server interactively) - if specified, all other options are ignored
 
 **-r**: Number of required measurments for one point - default 5
 
@@ -20,7 +20,7 @@ python curveFitting.py [OPTION]
 
 
 Found function: 
-f(x) = x^4 - 5x^2 + 5x - 5
+![equation](https://latex.codecogs.com/gif.latex?f%28x%29%20%3D%20x%5E4%20-%205x%5E2%20&plus;%205x%20-%205)
 
 
 **Author**: Radovan Lapár
